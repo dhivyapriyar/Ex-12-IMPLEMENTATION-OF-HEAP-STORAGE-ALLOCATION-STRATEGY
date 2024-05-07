@@ -257,7 +257,8 @@ int main() {
 }
 ```
 # OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/dhivyapriyar/Ex-12-IMPLEMENTATION-OF-HEAP-STORAGE-ALLOCATION-STRATEGY/assets/119477552/5ff8cabd-cc37-4804-96a6-c808756438af)
+
 
 # RESULT
 The heap storage allocation strategy is implemented successfully, and the output is 
